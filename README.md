@@ -6,8 +6,8 @@ upcoming "silver tsunami" and acknolwedge its impact. The analysis provides a ov
 ## Results
 * Almost 90,399 of Pewlett Hackard employees are coming close to retirement. 
 * The job title that has the highest number of people close to retirement is the senior engineers, with 29,414 of them close to retirement. Senior staff, with 28,254 people close to retirement, is the second highest. 
-* 2 managers will retire soon and these are the import roles that need to be fulfilled at a timely manner
-* There are 1549 employees who are currently eligible for the mentorship program
+* 2 managers will retire soon and these are the import roles that need to be fulfilled at a timely manner.
+* There are 1549 employees who are currently eligible for the mentorship program.
 
 
 ## Summary
